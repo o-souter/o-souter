@@ -4,7 +4,7 @@ I'm <b>Oliver</b> and I'm a <b>Programmer</b>!
 <br>
 
 I'm Currently working on: 
-* WhereISSit? - A website which tracks the International Space Station
+* WhereISSit? - A mobile app which tracks the International Space Station
 * My portfolio website - A site that showcases all of my skills for employers!
 
 <br>
