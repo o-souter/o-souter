@@ -1,6 +1,6 @@
 Howdy!
 <br>
-I'm <b>Oliver</b> and I'm a <b>Programmer, Snowboarder and Baker</b>!
+I'm <b>Oliver</b> and I'm a <b>Programmer 👩‍💻, Snowboarder 🏂 and Baker 🍰</b>!
 <br>
 
 I'm Currently working on: 
