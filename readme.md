@@ -3,7 +3,7 @@ I'm Currently working on:
 * [WhereISSit?](https://github.com/o-souter/Where-ISS-it) - A mobile app which tracks the International Space Station
 * My portfolio website - A site that showcases all of my skills for employers!
 <br>
-Check out my website [here](https://oliversouter.com) !
+Check out my website [here!](www.oliversouter.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/o-souter/) 
