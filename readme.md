@@ -1,7 +1,7 @@
 Howdy!<br>I'm Oliver and I'm a Programmer 👩‍💻<br><br>
 I'm Currently working on: 
-* My Master's Project for RGU 😎
-* My portfolio website - A site that showcases all of my skills for employers! Check it out [Here!](https://oliversouter.com/)
+* My Master's Project for Robert Gordon University 😎
+* My Portfolio Website - A site that showcases all of my skills for employers! Check it out [Here!](https://oliversouter.com/)
 
 I'm also on [LinkedIn](https://www.linkedin.com/in/o-souter/)!
 
