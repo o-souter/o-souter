@@ -1,4 +1,4 @@
-Howdy!<br>I'm Oliver and I'm a Programmer 👩‍💻<br><br>
+Hi!<br>I'm Oliver and I'm a Programmer 👩‍💻<br><br>
 I'm Currently working on: 
 * My Master's Project for Robert Gordon University 😎
 * My Portfolio Website - A site that showcases all of my skills for employers! Check it out [Here!](https://oliversouter.com/)
